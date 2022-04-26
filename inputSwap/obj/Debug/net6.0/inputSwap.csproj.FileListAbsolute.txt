@@ -1,0 +1,15 @@
+/Users/DOTNET_reporoot/inputSwap/bin/Debug/net6.0/inputSwap
+/Users/DOTNET_reporoot/inputSwap/bin/Debug/net6.0/inputSwap.deps.json
+/Users/DOTNET_reporoot/inputSwap/bin/Debug/net6.0/inputSwap.runtimeconfig.json
+/Users/DOTNET_reporoot/inputSwap/bin/Debug/net6.0/inputSwap.dll
+/Users/DOTNET_reporoot/inputSwap/bin/Debug/net6.0/inputSwap.pdb
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.csproj.AssemblyReference.cache
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.AssemblyInfoInputs.cache
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.AssemblyInfo.cs
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.csproj.CoreCompileInputs.cache
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.dll
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/refint/inputSwap.dll
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.pdb
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/inputSwap.genruntimeconfig.cache
+/Users/DOTNET_reporoot/inputSwap/obj/Debug/net6.0/ref/inputSwap.dll
